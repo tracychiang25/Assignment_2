@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove=".DS_Store" />
+    <None Remove="Assignment_2.docx" />
+    <None Remove="ClassDiagram.jpg" />
+    <None Remove="sequence diagram.drawio" />
+    <None Remove="sequence diagram.jpg" />
+  </ItemGroup>
+
+</Project>

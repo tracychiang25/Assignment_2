@@ -1,0 +1,4 @@
+Player,Type,Token,Column,Row
+P1, Human,S,1,2
+P2, Human,S,1,1
+P1, Human,O,2,2

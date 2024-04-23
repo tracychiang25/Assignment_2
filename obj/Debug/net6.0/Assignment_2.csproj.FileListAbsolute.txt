@@ -1,0 +1,29 @@
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.csproj.AssemblyReference.cache
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.AssemblyInfoInputs.cache
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.AssemblyInfo.cs
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.csproj.CoreCompileInputs.cache
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/bin/Debug/net6.0/Assignment_2
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/bin/Debug/net6.0/Assignment_2.deps.json
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/bin/Debug/net6.0/Assignment_2.runtimeconfig.json
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/bin/Debug/net6.0/Assignment_2.dll
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/bin/Debug/net6.0/Assignment_2.pdb
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.dll
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/refint/Assignment_2.dll
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.pdb
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/Assignment_2.genruntimeconfig.cache
+/Users/ambercheng/Desktop/Semaster2/IFN563/Assignment_2/obj/Debug/net6.0/ref/Assignment_2.dll
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\bin\Debug\net6.0\Assignment_2.exe
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\bin\Debug\net6.0\Assignment_2.deps.json
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\bin\Debug\net6.0\Assignment_2.runtimeconfig.json
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\bin\Debug\net6.0\Assignment_2.dll
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\bin\Debug\net6.0\Assignment_2.pdb
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.AssemblyInfoInputs.cache
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.AssemblyInfo.cs
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.dll
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\refint\Assignment_2.dll
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.pdb
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\Assignment_2.genruntimeconfig.cache
+C:\Users\yy509\OneDrive - Queensland University of Technology\Desktop\S2\IFN563\Assignment_2\obj\Debug\net6.0\ref\Assignment_2.dll
